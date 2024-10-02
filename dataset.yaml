@@ -1,0 +1,6 @@
+
+train: /content/dataset/train data/images/train
+val: /content/dataset/train data/images/val
+
+nc: 2  # Change this to the number of object classes in your dataset
+names: ['class1', 'class2']  # Change these to the actual class names
